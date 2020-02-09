@@ -1,0 +1,4 @@
+['remote "local"']
+url = /tmp/kaggle
+[core]
+remote = local

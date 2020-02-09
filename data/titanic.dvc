@@ -1,0 +1,7 @@
+md5: c46efd1472fa79f3542b58726e95afee
+outs:
+- md5: b04faf67381340b93896233db41cbe01.dir
+  path: titanic
+  cache: true
+  metric: false
+  persist: false
